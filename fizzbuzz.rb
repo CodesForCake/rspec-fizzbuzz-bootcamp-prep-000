@@ -16,6 +16,5 @@ def fizzbuzz(number)
   elsif five
     "Buzz"
   end
-end
-end 
+
 end
