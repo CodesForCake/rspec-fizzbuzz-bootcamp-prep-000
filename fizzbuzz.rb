@@ -11,9 +11,9 @@ def fizzbuzz(number)
   
   if three&&five
     "FizzBuzz"
-  else if three
+  elsif three
     "Fizz"
-  else if five
+  elsif five
     "Buzz"
   end
 end
